@@ -1,0 +1,6 @@
+﻿  引用.cpp
+  打印函数.c
+e:\vscode\c++练习\核心编程\引用\打印函数.c(36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vscode\c++练习\核心编程\引用\打印函数.c(49): warning C4047: “==”:“int (__cdecl *)(int *)”与“int”的间接级别不同
+e:\vscode\c++练习\核心编程\引用\打印函数.c(63): warning C4028: 形参 1 与声明不同
+  引用.vcxproj -> E:\VSCode\C++练习\核心编程\x64\Debug\引用.exe
