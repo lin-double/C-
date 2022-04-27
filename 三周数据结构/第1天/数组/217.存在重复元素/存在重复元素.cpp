@@ -4,7 +4,7 @@
 #include<algorithm>
 #include<unordered_set>
 using namespace std;
-//±©Á¦½â·¨
+//Â±Â©ÃÂ¦Â½Ã¢Â·Â¨
 class Solution1 {
 public:
 	bool containsDuplicate(vector<int>& nums) {
@@ -20,9 +20,8 @@ public:
 		}
 		return false;
 	}
-
 };
-//ÅÅĞò
+//Ã…Ã…ÃÃ²
 class Solution2 {
 public:
 	bool containsDuplicate(vector<int> &nums)
@@ -38,7 +37,7 @@ public:
 		return false;
 	}
 };
-//¹şÏ£±í
+//Â¹Ã¾ÃÂ£Â±Ã­
 class Solution3 {
 public:
 	bool containsDuplicate(vector<int>&nums)
